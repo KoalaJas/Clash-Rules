@@ -1,8 +1,8 @@
 # NAME: ADLite
 # AUTHOR: KoalaJas
 # REPO: https://github.com/KoalaJas/Clash-Rules
-# UPDATED: 2024-07-18 17:15:00
-# TOTAL: 193
+# UPDATED: 2024-07-19 09:30:00
+# TOTAL: 195
 payload:
   - DOMAIN-KEYWORD,admarvel
   - DOMAIN-KEYWORD,admaster
@@ -112,6 +112,7 @@ payload:
   - DOMAIN-SUFFIX,jizzads.com
   - DOMAIN-SUFFIX,juicyads.com
   - DOMAIN-SUFFIX,kochava.com
+  - DOMAIN_SUFFIX,laikanav-tmax015.com
   - DOMAIN-SUFFIX,leadbolt.com
   - DOMAIN-SUFFIX,leadbolt.net
   - DOMAIN-SUFFIX,leadboltads.net
@@ -185,6 +186,7 @@ payload:
   - DOMAIN-SUFFIX,26zsd.cn
   - DOMAIN-SUFFIX,519397.com
   - DOMAIN-SUFFIX,626uc.com
+  - DOMAIN-SUFFIX,69tx008.xyz
   - DOMAIN-SUFFIX,915.com
   - DOMAIN-SUFFIX,appget.cn
   - DOMAIN-SUFFIX,appuu.cn
